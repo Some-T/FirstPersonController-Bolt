@@ -11,7 +11,6 @@
 - Melee Attack from the player
 - Interact with objects, e.g. pressing a button
 - Pick up objects
-- Run and jump
 
 
 # Screenshot: 
